@@ -1,0 +1,16 @@
+{
+    "name": "dzema/verkiezingen_proefexamen",
+    "description": "proefexamen",
+    "autoload": {
+        "psr-4": {
+            "VerkiezingenProefexamen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dzemal9017989",
+            "email": "9017989@student.zadkine.nl"
+        }
+    ],
+    "require": {}
+}
